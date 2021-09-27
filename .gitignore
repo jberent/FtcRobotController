@@ -5,6 +5,10 @@
 *.aab
 
 !libs/*.aar
+.vs/
+.settings/
+.project
+
 
 # Files for the ART/Dalvik VM
 *.dex
